@@ -1,1 +1,3 @@
-# Path_Validation
+# Path Validation Description
+
+This program reads a galaxy map and a list of TIE fighter pilot patrol routes from two input files. It builds a graph using a HashMap, where each planet is a key (vertex) and its connected planets with weights are stored as values (edges). For each pilot, the program checks if their patrol route is valid by verifying that each step in their route exists in the graph. If the route is valid, it calculates the total weight of the path; if not, the weight is set to zero. The results, including the pilot's name, path weight, and whether the path is valid, are written to an output file called patrols.txt. The output is sorted by path weight using merge sort or quick sort, with alphabetical order used to break ties.
