@@ -1,0 +1,13 @@
+Hank 0 invalid
+Mom 0 invalid
+Zoro 0 invalid
+Yustice 8 valid
+Pluffy 11 valid
+Doffy 14 valid
+Sabo 15 valid
+Rebecca 16 valid
+Pudding 22 valid
+Shroud 24 valid
+Nami 27 valid
+Whitebeard 27 valid
+Shirohoshi 34 valid

@@ -1,0 +1,9 @@
+Rag Dallas,2
+Dallas Rag,3 Mal,1 ImpelDown,4
+Mal Houston,2 Eblue,6
+Houston Ablue,6
+Ablue ImpelDown,5 Mal,4
+Eblue Rag,2 Ablue,7
+Lgarden Eblue,3 Wano,4 Rag,6
+Wano Ablue,2 Dallas,5 Eblue,5
+ImpelDown Mal,1 Lgarden,10 Wano,3
